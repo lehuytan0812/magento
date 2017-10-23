@@ -1,0 +1,19 @@
+<config>
+    <modules>
+        <GrelaDesign_Tutorial>
+            <vesion>0.0.0.1</vesion>
+        </GrelaDesign_Tutorial>
+    </modules>
+    <global>
+        <models>
+            <tutorial>
+                <class>GrelaDesign_Tutorial_Model</class>
+            </tutorial>
+        </models>
+        <helpers>
+            <tutorial>
+                <class>GrelaDesign_Tutorial_Helper</class>
+            </tutorial>
+        </helpers>
+    </global>
+</config>

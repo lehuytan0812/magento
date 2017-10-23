@@ -1,0 +1,12 @@
+<!-- GrelaDesign_Tutorial.xml-->
+<config>
+    <module>
+        <GrelaDesign_Tutorial>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Api/>
+            </depends>
+        </GrelaDesign_Tutorial>
+    </module>
+</config>

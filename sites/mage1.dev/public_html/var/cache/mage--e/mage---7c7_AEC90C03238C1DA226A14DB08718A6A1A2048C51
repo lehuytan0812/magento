@@ -1,0 +1,26 @@
+<ul class="catblocks">
+    <li>
+    <a href="http://mage1.dev/accessories/eyewear.html">
+        <img src="http://mage1.dev/media/wysiwyg/accessorieseyewearimg.jpg" alt="Eyewear" />
+        <span>Eyewear</span>
+    </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/accessories/jewelry.html">
+            <img src="http://mage1.dev/media/wysiwyg/acessoreiesjeweleryimg.jpg" alt="Jewelry" />
+            <span>Jewelry</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/accessories/shoes.html">
+            <img src="http://mage1.dev/media/wysiwyg/accessoriesshoesimg.jpg" alt="Shoes" />
+            <span>Shoes</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/accessories/bags-luggage.html">
+            <img src="http://mage1.dev/media/wysiwyg/Accessoriesbagimg.jpg" alt="Bags" />
+            <span>Bags & Luggage</span>
+        </a>
+    </li>
+</ul>

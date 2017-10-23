@@ -1,0 +1,31 @@
+<div class="category-image">
+    <img src="http://mage1.dev/media/wysiwyg/catwomen-newimg.jpg" alt="Bon Voyage - sleek and stylish selections for on-the-go"  />
+</div>
+<ul class="catblocks">
+    <li>
+    <a href="http://mage1.dev/women/new-arrivals.html">
+        <img src="http://mage1.dev/media/wysiwyg/Womennewarrivalsimg.jpg" alt="New Arrivals" />
+        <span>New Arrivals</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://mage1.dev/women/tops-blouses.html">
+        <img src="http://mage1.dev/media/wysiwyg/Womentopsimg.jpg" alt="Tops &amp; Blouses" />
+        <span>Tops &amp; Blouses</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://mage1.dev/women/pants-denim.html">
+        <img src="http://mage1.dev/media/wysiwyg/Womenpantsimg.jpg" alt="Pants &amp; Denim" />
+        <span>Pants &amp; Denim</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://mage1.dev/women/dresses-skirts.html">
+        <img src="http://mage1.dev/media/wysiwyg/Womenskirtsimg.jpg" alt="Dresses &amp; Skirts" />
+        <span>Dresses &amp; Skirts</span>
+    </a>
+    </li>
+</ul>
+
+

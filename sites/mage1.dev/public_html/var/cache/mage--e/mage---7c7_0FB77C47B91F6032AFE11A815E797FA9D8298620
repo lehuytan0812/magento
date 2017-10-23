@@ -1,0 +1,26 @@
+<ul class="catblocks">
+    <li>
+        <a href="http://mage1.dev/home-decor/books-music.html">
+            <img src="http://mage1.dev/media/wysiwyg/Homecatimg-books.jpg" alt="Books &amp; Music" />
+            <span>Books &amp; Music</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/home-decor/bed-bath.html">
+            <img src="http://mage1.dev/media/wysiwyg/home_bed_bathimg.jpg" alt="Bed &amp; Bath" />
+            <span>Bed &amp; Bath</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/home-decor/electronics.html">
+            <img src="http://mage1.dev/media/wysiwyg/Homecatimg-electronics.jpg" alt="Electronics" />
+            <span>Electronics</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://mage1.dev/home-decor/decorative-accents.html">
+            <img src="http://mage1.dev/media/wysiwyg/Homecatimg-decor.jpg" alt="Decorative Accents" />
+            <span>Decorative Accents</span>
+        </a>
+    </li>
+</ul>

@@ -1,0 +1,18 @@
+<config>
+    <api>
+        <resources>
+            <tutorial_core translate="title" module="tutorial">
+                <title>GrelaDesign tutorial Core API calls</title>
+                <model>tutorial/core_api</model>
+                <acl>greladesign/tutorial</acl>
+                <methods>
+                    <getVersion translate="title" module="tutorial">
+                        <title>Returns version of this API</title>
+                        <acl>greladesign/tutorial/allaccess</acl>
+                    </getVersion>
+                </methods>
+            </tutorial_core>
+            <tutorital_dashboard translate="title" module
+        </resources>
+    </api>
+</config>

@@ -1,0 +1,9 @@
+<config>
+    <modules>
+        <Ltgroups_Helloworld>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ltgroups_Helloworld>
+    </modules>
+</config>
+

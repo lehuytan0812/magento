@@ -1,0 +1,14 @@
+<div class="block block-cms-menu">
+    <div class="block-title">
+        <strong><span>Company</span></strong>
+    </div>
+    <div class="block-content">
+        <ul>
+            <li><a href="http://mage1.dev/about-magento-demo-store/?___SID=U"><span>About Us</span></a></li>
+            <li><a href="http://mage1.dev/contacts/?___SID=U"><span>Contact us</span></a></li>
+            <li><a href="http://mage1.dev/customer-service/?___SID=U"><span>Customer Service</span></a></li>
+            <li><a href="http://mage1.dev/privacy-policy-cookie-restriction-mode/?___SID=U"><span>Privacy Policy</span></a></li>
+        </ul>
+    </div>
+</div>
+
